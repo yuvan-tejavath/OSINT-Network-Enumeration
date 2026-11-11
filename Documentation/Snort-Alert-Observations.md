@@ -33,3 +33,12 @@ These alerts indicate that Snort generated detections matching configured rules 
 ## Evidence limitation
 
 The public repository does not include the original screenshot because it contains network identifiers and detailed traffic data that should be sanitized and approved before disclosure.
+## Conclusion
+
+This Snort monitoring exercise helped me understand how an Intrusion Detection System (IDS) identifies suspicious network activities.
+
+I observed alerts related to UDP port scanning, ICMP ping activity, and TCP sessions without a completed three-way handshake.
+
+Through this exercise, I learned about network traffic monitoring, security alert interpretation, and basic SOC investigation procedures.
+
+**Learning Outcome:** Gained practical understanding of Snort alerts and network intrusion detection.
